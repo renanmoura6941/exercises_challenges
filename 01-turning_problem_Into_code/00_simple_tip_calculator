@@ -5,7 +5,10 @@ input
 >a bill amount
 >tip rate
 
+processes
+>calculate the tip
+
 output
->tip
->total
+>tip amount
+>total amount
 
